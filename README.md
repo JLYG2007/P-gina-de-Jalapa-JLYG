@@ -1,2 +1,2 @@
-# P-gina-de-Jalapa-JLYG
+# Pagina-de-Jalapa-JLYG
 Increíble 🤓
