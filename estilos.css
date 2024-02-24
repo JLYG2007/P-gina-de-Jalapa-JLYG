@@ -1,0 +1,74 @@
+.departamento{
+    color: green;
+    text-align: center;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 2px darkgreen;
+    letter-spacing: 3px;
+    word-spacing: 10px;
+    text-decoration: overline underline;
+    }
+.Fondo{
+    background-image: url("Bandera_de_Jalapa.jpg");
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-attachment: scroll;   
+    }
+.tradiciones{
+    text-align: center;
+    color: darkred;
+  padding: 3px 10px;
+  border: darkred 5px dashed;
+  border-top-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+    text-transform: uppercase;
+}
+.cajas{
+  align-items: stretch;
+    display:inline-grid;
+  height: 100px;
+  justify-content: center;
+  width: 200px;
+    text-align: center;
+}
+.uno{
+    background-color: crimson;
+}
+.dos{
+    background-color: yellow;
+}
+.tres{
+    background-color: green;
+}
+.cuatro{
+    background-color: crimson;
+}
+.cinco{
+    background-color: yellow;
+}
+.seis{
+    background-color: green;
+}
+.Comida{
+    border: 10px outset yellow;
+    /*background-color: yellow;*/
+    text-align: center;
+    color: yellow;
+    text-transform: capitalize;
+}
+.n{
+    background-color: crimson;
+}
+.ds{
+    background-color: yellow;
+}
+.trs{
+    background-color: green;
+}
+.ctr{
+    background-color: crimson;
+}
+.cnc{
+    background-color: yellow;
+}
+.ss{
+    background-color: green;
